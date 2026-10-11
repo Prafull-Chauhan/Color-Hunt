@@ -51,7 +51,7 @@ SPECTRA is a client-side color-sampling and analysis interface built with **HTML
 
 <div align="center">
 
-<img src="https://dummyimage.com/1000x560/06090e/38bdf8.png&text=SPECTRA+METROLOGY+%7C+Add+your+own+project+screenshot" alt="Replace this placeholder with a screenshot of the SPECTRA interface" width="100%">
+<img src="https://prafull-chauhan.github.io/Color-Hunt/" alt="Replace this placeholder with a screenshot of the SPECTRA interface" width="100%">
 
 <sub>Replace this placeholder with a real screenshot or GIF of your running application for the strongest GitHub presentation.</sub>
 
