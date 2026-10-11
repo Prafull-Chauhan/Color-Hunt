@@ -55,7 +55,7 @@ Curious how it works? **Try the live website here:**
 
 [![Open SPECTRA](https://img.shields.io/badge/OPEN_LIVE_WEBSITE-Launch%20SPECTRA-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B0F19)](https://prafull-chauhan.github.io/Meta/)
 
-**[Launch SPECTRA →](https://prafull-chauhan.github.io/Meta/)**
+**[Launch SPECTRA →](https://prafull-chauhan.github.io/Color-Hunt/)**
 
 </div>
 
